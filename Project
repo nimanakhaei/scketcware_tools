@@ -8,7 +8,7 @@
     "item": "یادداشت",
     "sk": "برنامه اندروید",
     "about": "_ساخت تم\n_ ذخیره یادداشت به فرمت های مختلف\n_حالت شب\n_فونت جدید\n_گرافیک جدید\n",
-    "link": "https://uupload.ir/view/your.notes.ir_1_bw0w.zip/",
+    "link": "https://uupload.ir/view/lang_6jeu.zip/",
     "img1": "https://sketchub.in/storage/project_files/9387/3412801.jpg",
     "img3": "https://sketchub.in/storage/project_files/9387/7709564.jpg",
     "img4": "https://sketchub.in/storage/project_files/9387/7764233.jpg",
@@ -46,5 +46,21 @@
     "img4": "https://sketchub.in/storage/project_files/9577/4411492.jpg",
     "img5": "https://sketchub.in/storage/project_files/9577/1484256.jpg",
     "img2": "https://sketchub.in/storage/project_files/9577/1484256.jpg"
+  },
+  {
+    "icon": "https://sketchub.in/storage/project_files/8864/4432403.png",
+    "image": "https://s4.uupload.ir/files/۲۰۲۱۱۰۲۷_۱۲۰۰۵۹_ym9y.png",
+    "name": "sketchware ui",
+    "type": "پروژه",
+    "item": "شبیه ساز یو ای",
+    "sk": "پروژه اسکچور",
+    "about": "شبیه سازی تمامی قسمت های اسکچور",
+    "link": "https://uupload.ir/view/scketcware-block_9mp1.zip/",
+    "img1": "https://sketchub.in/storage/project_files/8864/3765836.jpg",
+    "img3": "https://sketchub.in/storage/project_files/8864/8761876.jpg",
+    "img4": "https://sketchub.in/storage/project_files/8864/8168763.jpg",
+    "img5": "https://sketchub.in/storage/project_files/8864/3864697.jpg",
+    "img2": "https://sketchub.in/storage/project_files/8864/2568319.jpg",
+    "format": "nimanakhaei"
   }
 ]
